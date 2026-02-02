@@ -1,1 +1,1 @@
-# ui-architecture-lab!
+# ui-architecture-lab
